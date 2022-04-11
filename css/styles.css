@@ -29,6 +29,7 @@ a{
   font-variant: 'Montserrat', sans-serif;
   text-decoration: none;
   padding-right: 10px;
+  target:
 }
 
 a:hover{
@@ -98,6 +99,8 @@ hr{
 
 .footer-link{
   font-size: 1rem;
+  target-name:new;
+  target-new:tab;
 }
 
 .skills{
