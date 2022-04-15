@@ -27,9 +27,7 @@ h3{
 a{
   color:#1F1641;
   font-variant: 'Montserrat', sans-serif;
-  text-decoration: none;
   padding-right: 10px;
-  target:
 }
 
 a:hover{
@@ -79,6 +77,8 @@ hr{
   line-height: 2;
 }
 
+
+
 .middle-container{
   margin:50px;
 }
@@ -99,8 +99,6 @@ hr{
 
 .footer-link{
   font-size: 1rem;
-  target-name:new;
-  target-new:tab;
 }
 
 .skills{
@@ -124,6 +122,26 @@ hr{
   width:20%;
   float:right;
   margin-left: 30px;
+}
+
+.article-title {
+  background-color: #05ACD3;
+  position:relative;
+  padding-top: 58px;
+  padding-bottom: 58px;
+}
+
+.article{
+  color: #40514E;
+  width:58%;
+  margin:50px auto 50px auto;
+  line-height: 2;
+  text-align: left;
+}
+
+.article-image{
+
+  height:358px;
 }
 
 .btn {
